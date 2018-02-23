@@ -1,14 +1,14 @@
 ### Paper_mentioned_deep_learning_coursera_Andrew-Ng
 
-# A collection of papers mentioned in the deep learning course of Andrew Ng
+## A collection of papers mentioned in the deep learning course of Andrew Ng
 
 ***
 
-# 1. Neural Networks and Deep Learning
+## 1. Neural Networks and Deep Learning
 
-##
 
-# 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+
+## 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 
 - Dropout; regularization; 
 
@@ -16,9 +16,9 @@ Srivastava, Nitish, et al. "Dropout: A simple way to prevent neural networks fro
 
 https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 
-# 3. Structuring Machine Learning Projects
+## 3. Structuring Machine Learning Projects
 
-# 4. Convolutional Neural Networks
+## 4. Convolutional Neural Networks
 
 - LeNet-5; a kind of nueral network model;
 
@@ -73,7 +73,7 @@ Taigman et.al., 2014. DeepFace closing the gap to human level performance
 Schreff et.al., 2015, FaceNet: A unified embedding for face recognition and clustering
 
 
-# 5. Sequence Models
+## 5. Sequence Models
 
 - gated recurrent unit; 
 
