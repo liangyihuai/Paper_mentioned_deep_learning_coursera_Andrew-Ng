@@ -1,6 +1,8 @@
-# Paper_mentioned_deep_learning_coursera_Andrew-Ng
+### Paper_mentioned_deep_learning_coursera_Andrew-Ng
 
-*A collection of papers mentioned in the deep learning course of Andrew Ng**
+# A collection of papers mentioned in the deep learning course of Andrew Ng
+
+***
 
 # 1. Neural Networks and Deep Learning
 
@@ -84,6 +86,35 @@ Chung et al., 2014. Empirical Evaluation of Gated Recurrent Neural Networks on S
 - LSTM (long short-term memory);
 
 Hochreiter & Schmidhuber 1997. Long short-term memory
+
+- Visualizing word embeddings
+
+van der Maaten and Hinton., 2008. Visualizing data using t-SNE
+
+- About word embedding
+
+Mikolov et.al., 2013. Linguistic regularities in continuous space word representations
+
+- neural language model. to predict next word.
+
+Bengio et.al., 2003, A neural probabilistic language model
+
+- Skip-gram model, about how to learn word-to-vector of word embedding in the neural network.
+
+Mikolov et.al., 2013. Efficient estimation of word representations in vector space
+
+- Negative sampling; similar to skip-gram model but with much more efficient.
+
+Mikolov et.al., 2013. Distributed representation of words and phrases and their compositionality.
+
+- GloVe (global vectors for word representation); Has some momentum in the NLP community. It is not used as much as the Word2Vec or the skip-gram models.
+
+Pennington et.al., 2014. GloVe: Global vectors for word representation.
+
+- About the problem of bias in word embeddings.
+
+Bolukbasi et.al., 2016. Man is to computer programmer as woman is to homemaker? Debiasing word embeddings
+
 
 
 
