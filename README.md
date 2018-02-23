@@ -8,6 +8,12 @@
 
 # 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 
+- Dropout; regularization; 
+
+Srivastava, Nitish, et al. "Dropout: A simple way to prevent neural networks from overfitting." The Journal of Machine Learning Research 15.1 (2014): 1929-1958.
+
+https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+
 # 3. Structuring Machine Learning Projects
 
 # 4. Convolutional Neural Networks
@@ -66,6 +72,29 @@ Schreff et.al., 2015, FaceNet: A unified embedding for face recognition and clus
 
 
 # 5. Sequence Models
+
+- gated recurrent unit; 
+
+Cho et al., 2014. On the properties of neural machine translation: Encoder-decoder approaches
+
+- gated recurrent unit;
+
+Chung et al., 2014. Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.
+
+- LSTM (long short-term memory);
+
+Hochreiter & Schmidhuber 1997. Long short-term memory
+
+
+
+
+
+
+
+
+
+
+
 
 
 
