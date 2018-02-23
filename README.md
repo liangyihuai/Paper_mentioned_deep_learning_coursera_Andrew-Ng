@@ -1,2 +1,25 @@
 # Paper_mentioned_deep_learning_coursera_Andrew-Ng
-A collection of papers mentioned in the deep learning course of Andrew Ng
+
+*A collection of papers mentioned in the deep learning course of Andrew Ng**
+
+# 1. Neural Networks and Deep Learning
+
+##
+
+# 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+# 3. Structuring Machine Learning Projects
+# 4. Convolutional Neural Networks
+
+- LeNet-5; a kind of nueral network model; LeCun et al., 1998. Gradient-based learning applied to document recognition
+- AlexNet; a kind of nueral network model; Krizhevsky et al., 2012. ImageNet classification with deep convolutional neural networks
+- VGG-16; Simonyan & Zisserman 2015. Very deep convolutional networks for large-scale image recognition
+- ResNet(Residual Network); He et al., 2015. Deep residual networks for image recognition
+- Network in Network (one by one convolution); filter size is (1 ,1), but filter number is more than one; Lin et al., 2013, Network in network.
+- inception network; motivation for inception network; Szegedy et al. 2014. Going deeper with convolutions
+- object recognition; Sermanet et al., 2014, OverFeat: Integrated recognition, localization and detection using convolutional networks
+# 5. Sequence Models
+
+
+
+
+
