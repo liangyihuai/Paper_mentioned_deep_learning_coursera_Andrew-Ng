@@ -1,7 +1,7 @@
 ## A collection of papers mentioned in the deep learning course of Andrew Ng
 
 
-> I think it is an easy thing to get these papers. If you can not downlaod it freely, let me know please.
+> I think it is easy to get these papers. If you can not downlaod freely, let me know please.
 ***
 
 ## ~~1. Neural Networks and Deep Learning~~
