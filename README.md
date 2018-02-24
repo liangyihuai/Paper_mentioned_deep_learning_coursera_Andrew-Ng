@@ -2,8 +2,8 @@
 
 ***
 
-## 1. Neural Networks and Deep Learning
-
+## ~~1. Neural Networks and Deep Learning~~
+None
 
 
 ## 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
@@ -12,9 +12,23 @@
 
 Srivastava, Nitish, et al. "Dropout: A simple way to prevent neural networks from overfitting." The Journal of Machine Learning Research 15.1 (2014): 1929-1958.
 
-https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+[dropout1](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) or [dropout2](https://github.com/liangyihuai/Paper_mentioned_deep_learning_coursera_Andrew-Ng/Dropout A simple way to prevent neural networks from overfitting.pdf)
 
-## 3. Structuring Machine Learning Projects
+- RMSprop; optimization of gradient descent, it is an unpublished, adaptive learning rate method proposed by Geoff Hinton in Lecture 6e of his Coursera Class. RMSprop and Adadelta have both been developed independently around the same time stemming from the need to resolve Adagrad's radically diminishing learning rates.
+
+Tieleman, Tijmen, and Geoffrey Hinton. "Lecture 6.5-rmsprop: Divide the gradient by a running average of its recent magnitude." COURSERA: Neural networks for machine learning 4.2 (2012): 26-31.
+
+- Adam optimization algorithm; an algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of lower-order moments. 
+
+https://arxiv.org/pdf/1412.6980.pdf
+
+- Batch normalization
+
+Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." International conference on machine learning. 2015.
+
+
+## ~~3. Structuring Machine Learning Projects~~
+None
 
 ## 4. Convolutional Neural Networks
 
