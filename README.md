@@ -12,7 +12,7 @@ None
 
 Srivastava, Nitish, et al. "Dropout: A simple way to prevent neural networks from overfitting." The Journal of Machine Learning Research 15.1 (2014): 1929-1958.
 
-[dropout1](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) or [dropout2](https://github.com/liangyihuai/Paper_mentioned_deep_learning_coursera_Andrew-Ng/Dropout A simple way to prevent neural networks from overfitting.pdf)
+https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 
 - RMSprop; optimization of gradient descent, it is an unpublished, adaptive learning rate method proposed by Geoff Hinton in Lecture 6e of his Coursera Class. RMSprop and Adadelta have both been developed independently around the same time stemming from the need to resolve Adagrad's radically diminishing learning rates.
 
