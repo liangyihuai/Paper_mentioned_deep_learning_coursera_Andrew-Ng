@@ -129,6 +129,38 @@ Pennington et.al., 2014. GloVe: Global vectors for word representation.
 
 Bolukbasi et.al., 2016. Man is to computer programmer as woman is to homemaker? Debiasing word embeddings
 
+- CTC (Connectionist temporal classification) cost for speech recognition
+
+Graves et al., 2006. Connectionist Temporal Classification: Labeling unsegmented sequence data with recurrent neural networks
+
+- language tranlation; Sequence to sequence model
+
+Sutskever et al., 2014. Sequence to sequence learning with neural networks
+
+- language tranlation; Sequence to sequence model
+
+Cho et al., 2014. Learning phrase representations using RNN encoder-decoder for statistical machine translation
+
+- Image captioning
+
+Mao et. al., 2014. Deep captioning with multimodal recurrent neural networks
+
+Vinyals et.al., 2014. Show and tell: Neural image caption generator
+
+Karpathy and Fei Fei, 2015. Deep visual-semantic alignments for generating image descriptions
+
+- Evaluating machine translation
+
+Papineni et.al., 2002. A method for automatic evaluation of machine translation
+
+- Attention model
+
+Bahdanau et.al., 2014. Neural machine translation by jointly learning to align and tranlate
+
+Xu et.al., 2015. Show attention and tell: neural image caption generation with visual attention
+
+
+
 
 
 
